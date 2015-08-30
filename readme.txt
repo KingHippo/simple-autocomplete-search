@@ -1,4 +1,4 @@
-=== Jquery Autocomplete Search ===
+=== Simple Autocomplete Search ===
 Contributors: Don Price
 Tags: Jquery, search, MySql
 Requires at least: 3.0
