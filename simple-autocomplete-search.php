@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin Name: Jquery Autocomplete Search
+  Plugin Name: Simple Autocomplete Search
   Plugin URI:
   Description: An autocomplete plugin for WordPress using Jquery
   Author: Don Price

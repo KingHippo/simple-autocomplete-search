@@ -3,7 +3,7 @@ Contributors: Don Price
 Tags: Jquery, search, MySql
 Requires at least: 3.0
 Tested up to: 4.2.3
-Stable tag: trunk
+License: GPLv2 or later
 Jquery Autocomplete Search
 == Description ==
 A plugin using Jquery for autocomplete search function
